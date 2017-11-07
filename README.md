@@ -1,9 +1,22 @@
+## Awesome Logo
+
 # NCBIJupyter
 A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
+
+## Link to DOI
+
+### You can make a free DOI with zenodo <link>
+
+## Website (if applicable)
 
 ## Designing Educational Experiences with Jupyter Notebooks:
 
 ### Abstract:
+
+
+# Overview Diagram
+
+
 
 
 ### Dependencies:
@@ -15,12 +28,12 @@ A variety of NCBI Computational Tools Distributed as Jupyter Notebooks
 
 ### Method:
 
+### Docker
+
 
 ### Project Team:
 
 
-
-* 
 
 
 
